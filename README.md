@@ -11,18 +11,18 @@ Live Link: https://vigilancemarketing.com/
 
 This trendy-landing page was created using HTML, CSS, and some light JavaScript.
 
-Biult with:
+Built using:
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 markup
+- CSS3 custom properties
 - Flexbox
 - CSS Grid
 - Responsive layout
-- Light JavScript for navigation bar
+- JavaScript for navigation bar
 
 Learned:
 
-- first time implemented SVG
+- implemented SVG
 - make changes to SVG images
 - CSS positioning to overlap 2-3 different elements
 - CSS transform, transition, and filter properties
