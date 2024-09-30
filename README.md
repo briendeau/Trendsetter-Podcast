@@ -20,15 +20,6 @@ Built using:
 - Responsive layout
 - JavaScript for navigation bar
 
-Learned:
-
-- implemented SVG
-- make changes to SVG images
-- CSS positioning to overlap 2-3 different elements
-- CSS transform, transition, and filter properties
-- compressing and customizing SVG and pictures
-- JavaScript DOM manipulation
-
 Resources:
 
 - Designs by MindInventory
